@@ -1,0 +1,6 @@
+{
+  "name": "Classroom Fund Tracker",
+  "description": "An advanced app to track weekly payments for a class. Admins can set payment amounts, edit student names, use 'Pay All' options for quick entry, and generate a shareable link. Features a real-time summary dashboard to monitor collection progress.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
